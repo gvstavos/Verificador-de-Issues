@@ -5,7 +5,7 @@ Criado por Gustavo Silva
 Ferramenta criada para automatizar uma tarefa repetitiva e sujeita a erros: verificar manualmente issues concluídas quando o armazenamento da pasta de evidências de bugs da rede atinge o limite.
 ---
 ## Funcionalidades
-- **Verificador de issues concluídas** integrado com API do Jira.  
+- **Verificador de issues concluídas/verificadas** integrado com API do Jira.  
 - **Renomeador automático de pastas**, para padronizar nomes no formato `XXX-0000` quando o usuário inserir apenas o número do ticket.  
 - **Re-validador da verificação de issues concluídas**, garantindo que as issues apontadas como concluídas estejam realmente finalizadas.  
 ### Funcionalidade Extra
